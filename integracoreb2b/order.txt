@@ -1,0 +1,50 @@
+object(WP_Post)#357 (24) {
+  ["ID"]=>
+  int(21)
+  ["post_author"]=>
+  string(1) "1"
+  ["post_date"]=>
+  string(19) "2014-08-16 06:16:50"
+  ["post_date_gmt"]=>
+  string(19) "2014-08-16 06:16:50"
+  ["post_content"]=>
+  string(0) ""
+  ["post_title"]=>
+  string(40) "Order &ndash; August 16, 2014 @ 06:16 AM"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(4) "open"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(19) "order_53eef75282c2c"
+  ["post_name"]=>
+  string(25) "order-aug-16-2014-0616-am"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2014-08-16 06:16:53"
+  ["post_modified_gmt"]=>
+  string(19) "2014-08-16 06:16:53"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(53) "http://localhost/wp39/?post_type=shop_order&#038;p=21"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(10) "shop_order"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "2"
+  ["filter"]=>
+  string(3) "raw"
+}

@@ -1,2 +1,0 @@
-[19-May-2013 20:40:38] PHP Fatal error:  Call to undefined function get_option() in C:\xampp\htdocs\sqlplugin\wp-content\plugins\ASP6\auto-social-poster-include.php on line 1321
-[19-May-2013 20:40:40] PHP Fatal error:  Call to undefined function get_option() in C:\xampp\htdocs\sqlplugin\wp-content\plugins\ASP6\auto-social-poster-include.php on line 1321
