@@ -1,0 +1,14 @@
+Changelog as of 16/12/2014
+- A bit space between fields in product registration page
+- Capitalize each word ( License Plugin )
+- Enter md5 salt in all uppercase letters to Enter md5 salt only ( text )
+- Add period in text :  Enter md5 salt in uppercase letters.
+- Capitalize E on Email. Add period on description on Verification email settings
+- Capitalize E on Email. Again. Fix description on Confirmation email settings.
+- X ( Not possible ). the file upload button is by default by browser and browser specific.
+- Fix logo text and margin space.
+- Various other fixes indicated by picture.
+- Add text "To add the customer product registration form to a page on your site, add the following shortcode to the page [shortcode]". Made it bold as the information is important.
+- Removed "caps lock is off !" alert and uppercase detection from MD5 insertion.
+- Fixed Product Number | Salt | Serial -----> User Key
+- Add encoding and decoding to store md5 salt.

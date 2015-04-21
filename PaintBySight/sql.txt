@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS wp_calendar(
+	`id` int NOT NULL AUTO_INCREMENT,
+	`event_name` TEXT NOT NULL,
+	`event_date` TEXT NOT NULL,
+	`num_part` TEXT NOT NULL,
+	`registered` TEXT NOT NULL,
+	`event_time` TEXT NOT NULL,
+	`event_description` TEXT NOT NULL,
+	`event_image` TEXT NOT NULL,
+	`event_type` TEXT NOT NULL,
+	`material` TEXT NOT NULL,
+	`event_address` TEXT NOT NULL,
+	`event_published` TEXT NOT NULL,
+	primary key(`id`) ) ENGINE = InnoDB;
